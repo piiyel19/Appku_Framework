@@ -15,7 +15,7 @@ Framework ini menekankan konsep :
 - Redis 
 - Cache 
 - Data Migration 
-- Token 
+- CSRF Token 
 - Security 
 
 Kesesuaian dibangunkan untuk aplikasi backend yang memproses data kepada aplikasi Mobile seperti Flutter dan Ionic. 
