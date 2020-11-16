@@ -2,7 +2,7 @@
 
 Framework Appku adalah Framework yang dibangunkan oleh Sufian Mohd Hassan sebagai inisiatif membangunkan Framework sendiri menggunakan konsep-konsep pengaturcaraan PHP.
 
-Framework ini boleh diubah dan dikembangkan sendiri mengikut citarasa anda sendiri.
+Framework ini boleh diclone, diubah dan dikembangkan sendiri mengikut citarasa anda sendiri.
 
 Dikembangkan daripada kod pengaturcaraan : 
 
