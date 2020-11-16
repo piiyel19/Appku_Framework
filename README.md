@@ -1,4 +1,4 @@
-# Appku_Framework
+# Appku Framework
 
 Framework Appku adalah Framework yang dibangunkan oleh Sufian Mohd Hassan sebagai inisiatif membangunkan Framework sendiri menggunakan konsep-konsep pengaturcaraan PHP.
 
