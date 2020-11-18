@@ -22,7 +22,7 @@ Framework ini menekankan konsep :
 Kesesuaian dibangunkan untuk aplikasi backend yang memproses data kepada aplikasi Mobile seperti Flutter dan Ionic. 
 
 - Saya akan bangunkan Generator setelah memahami lebih dalam konsep pembangunan Framework sebenar, contoh Low Code yang pernah dibangunkan seperti Appku.my
-- Tetapi ini masih menggunakan Framework Codeigniter dan kod ini saya akan bangunkan Framework saya sendiri. 
+- Tetapi ini masih menggunakan Framework Codeigniter dan kod ini saya akan bangunkan Framework saya sendiri kerana ketidakpuasan hati menggunakan Framework sedia ada. 
 - Sorry diatas kesulitan dan masa untuk saya luangkan disini. Terima Kasih.
 
 Yang Benar,
