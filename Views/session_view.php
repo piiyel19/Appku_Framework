@@ -17,6 +17,7 @@
 
         protected $template;
 
+
         function __construct($controller, $model)
         {
             $this->controller = $controller;
@@ -28,6 +29,7 @@
             $this->query = new Query();
             $this->template = new Template();
             $this->migrate = new Migration();
+
         }
 
 
@@ -146,4 +148,8 @@
 
             return $output;
         }
+
+
+
+
     }

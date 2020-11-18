@@ -14,6 +14,7 @@
     include_once($root.'/System/Security.php');
     include $root.'/views/templates/ui-engine/Template.php'; 
     include_once($root.'/System/View.php');
+    include_once($root.'/System/Blockchain.php');
     include_once($root.'/Migrations/Migration.php');
     /* END */
 
