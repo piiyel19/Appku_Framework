@@ -17,6 +17,7 @@ Framework ini menekankan konsep :
 - Data Migration 
 - CSRF Token 
 - Security 
+- Blockchain Concept
 
 Kesesuaian dibangunkan untuk aplikasi backend yang memproses data kepada aplikasi Mobile seperti Flutter dan Ionic. 
 
