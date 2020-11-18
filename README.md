@@ -12,7 +12,7 @@ Framework ini menekankan konsep :
 
 - MVC (Model View Controller)
 - Restful API
-- Redis 
+- Redis (Need Install Redis Requirement / Read Redis Website)
 - Cache 
 - Data Migration 
 - CSRF Token 
